@@ -1,0 +1,17 @@
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\bin\Debug\AlgoritmoInsercao.exe
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\bin\Debug\AlgoritmoInsercao.pdb
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.Form1.resources
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.Properties.Resources.resources
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.exe
+C:\Users\Mac\documents\visual studio 2010\Projects\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.pdb
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\bin\Debug\AlgoritmoInsercao.exe
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\bin\Debug\AlgoritmoInsercao.pdb
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.Form1.resources
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.Properties.Resources.resources
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.exe
+C:\Users\Acer\Downloads\AlgoritmoInsercao\AlgoritmoInsercao\AlgoritmoInsercao\obj\x86\Debug\AlgoritmoInsercao.pdb
